@@ -8,7 +8,7 @@ body{
 
 .jumbotron img{
     width: 200px;
-    border: 5px solid #666;
+    border: 5px solid #6c7078;
 }
 
 hr{
@@ -21,7 +21,7 @@ section {
 }
 
 .portfolio{
-    background-color: #eee;
+    background-color: #9ba1ab;
 }
 
 .contact {
