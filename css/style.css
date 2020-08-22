@@ -17,12 +17,12 @@ hr{
 }
 
 section {
-    min-height: 600px;
+    min-height: 420px;
 }
 
-.portfolio{
+/* .portfolio{
     background-color: #9ba1ab;
-}
+} */
 
 .contact {
     min-height: 800px;
